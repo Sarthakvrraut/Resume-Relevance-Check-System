@@ -1,3 +1,10 @@
+# ------------------------------------------------------------
+# © 2025 Sarthak Raut
+# Resume Relevance Check System
+# All rights reserved. Unauthorized copying, modification,
+# or distribution of this file is prohibited.
+# ------------------------------------------------------------
+
 import streamlit as st
 from resume_parser import parse_resume, parse_jd
 from relevance_checker import compute_relevance
