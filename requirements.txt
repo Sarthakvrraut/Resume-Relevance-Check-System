@@ -1,1 +1,2 @@
 PyMuPDF
+docx2txt
