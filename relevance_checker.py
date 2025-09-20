@@ -1,3 +1,10 @@
+# ------------------------------------------------------------
+# © 2025 SR
+# Resume Relevance Check System
+# All rights reserved. Unauthorized copying, modification,
+# or distribution of this file is prohibited.
+# ------------------------------------------------------------
+
 import re
 from sklearn.feature_extraction.text import TfidfVectorizer
 from sklearn.metrics.pairwise import cosine_similarity
